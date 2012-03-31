@@ -1,0 +1,6 @@
+--- 
+cursor_positions: 
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 101
+    :timestamp: 2012-03-31 10:52:59.885000 -04:00
+files_to_retain: 0
